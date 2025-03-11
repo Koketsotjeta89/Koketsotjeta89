@@ -10,7 +10,6 @@ public class MyForm : Form
 
         // Create a label
         Label label = new Label();
-        label.Text = "Hello, World!";
         label.Location = new System.Drawing.Point(10, 10);
         this.Controls.Add(label);
 
